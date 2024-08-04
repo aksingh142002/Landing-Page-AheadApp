@@ -77,7 +77,7 @@ const TakeTest = () => {
                 animate={inView ? 'visible' : 'hidden'}
                 variants={headingVariants}
             >Before you get started</motion.div>
-            <div className={'text-center text-md md:text-xl text-gray-600'}>"We won't share your answers with anyone (and won't ever tell <br/> you which friends said what about you)"</div>
+            <div className={'text-center text-md md:text-xl text-gray-600'}>&quot;We won&apos;t share your answers with anyone (and won&apos;t ever tell <br/> you which friends said what about you)&quot;</div>
             <div className={'flex items-center gap-4 py-4'}>
                 <div className={'font-semibold text-md md:text-lg text-gray-800'}>
                     with love,

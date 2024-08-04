@@ -67,7 +67,7 @@ const SelfImprovement = () => {
                     initial='hidden'
                     animate={inView ? 'visible' : 'hidden'}
                     variants={headingVariant}
-                >What's wrong with self-improvement & how we're fixing it.</motion.div>
+                >What&apos;s wrong with self-improvement & how we&apos;re fixing it.</motion.div>
                 <div className={'flex gap-4 sm:gap-8'}>
                     <motion.div
                         className={'text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold flex items-center'}

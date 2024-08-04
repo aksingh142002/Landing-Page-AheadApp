@@ -99,7 +99,7 @@ const WorkWithUs = () => {
                             </div>
                             <div className={'flex flex-col items-center md:items-start gap-2 px-4 md:px-14'}>
                                 <div className={'font-semibold text-2xl'}>About</div>
-                                <div className={'text-center md:text-start text-gray-600 text-xl leading-relaxed'}>At ahead out goal is to make self-improvement fun and lasting. We know there's a way to make it work. And that's what aHead is all about!</div>
+                                <div className={'text-center md:text-start text-gray-600 text-xl leading-relaxed'}>At ahead out goal is to make self-improvement fun and lasting. We know there&apos;s a way to make it work. And that&apos;s what aHead is all about!</div>
                             </div>
                             <div className={'flex flex-col items-center md:items-start  gap-2 bg-[#fef7f1] rounded-[2rem] px-4 md:px-14 py-8'}>
                                 <div className={'font-semibold text-2xl'}>Product</div>
